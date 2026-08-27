@@ -1,0 +1,29 @@
+{
+    "01_financial_report.txt": {
+        "title": "Financial Report",
+        "description": "Company financial performance and revenue information",
+        "department": "finance",
+        "min_role": "employee"
+    },
+
+    "11_company_policy.docx": {
+        "title": "Company Policy",
+        "description": "Company policies and employee guidelines",
+        "department": "hr",
+        "min_role": "employee"
+    },
+
+    "12_blog_post.html": {
+        "title": "Company Blog Post",
+        "description": "Company blog and general informational content",
+        "department": "general",
+        "min_role": "employee"
+    },
+
+    "1810.04805v2.pdf": {
+        "title": "Research Paper",
+        "description": "Research paper in PDF format",
+        "department": "research",
+        "min_role": "employee"
+    }
+}

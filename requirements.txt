@@ -51,6 +51,7 @@ pytesseract
 pdf2image
 langchain-postgres
 langgraph-checkpoint-sqlite
+python-docx
 
 # Note: Tesseract OCR binary must be installed separately
 # macOS: brew install tesseract ,  brew install poppler
